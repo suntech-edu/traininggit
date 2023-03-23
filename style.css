@@ -1,0 +1,23 @@
+h2{
+    color: red;
+    font-weight: bold;
+}
+
+button{
+    background-color: aqua;
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+
+button:active{
+    cursor: pointer;
+    background-color: red;
+}
+
+input{
+    box-shadow: inset;
+}
